@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="flores.com.labcalificado1.MainActivity">
+
+    <android.support.v7.widget.ContentFrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp"
+        android:id="@+id/contentFrameLayout">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false"
+            android:scaleType="fitXY"
+            android:src="@drawable/bg_dj1"
+            android:alpha="1"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_editor_absoluteX="0dp"
+            android:id="@+id/appCompatImageView" />
+
+        <android.support.v7.widget.AppCompatCheckedTextView
+            android:layout_width="386dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#111"
+            android:textSize="42dp"
+            android:text="@string/title_app" />
+
+    </android.support.v7.widget.ContentFrameLayout>
+
+    <linearLayout>
+
+
+
+    </linearLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>
+
