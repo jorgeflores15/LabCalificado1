@@ -1,4 +1,28 @@
 <resources>
     <string name="app_name">LabCalificado1</string>
     <string name="title_app">My Music</string>
+    <string name="descripcion">By Jorge Flores</string>
+    <string name="person1">Martin Garrix</string>
+    <string name="songs1">32 Songs</string>
+    <string name="person2">Deadmau5</string>
+    <string name="songs2">17 Songs</string>
+    <string name="person3">Skrillex</string>
+    <string name="songs3">8 Songs</string>
+    <string name="person4">Zedd</string>
+    <string name="songs4">25 Songs</string>
+    <string name="disc_name">Good Feeling</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="cant_songs">15 Songs</string>
+    <string name="whistle">Whistle</string>
+    <string name="dimitri_vegas_and_like_mike">Dimitri Vegas and Like Mike</string>
+    <string name="alone">Alone</string>
+    <string name="alan_walker">Alan Walker</string>
+    <string name="all_of_me">All of me</string>
+    <string name="tiesto">Tiesto</string>
+    <string name="tsunami">Tsunami</string>
+    <string name="martin_garrix">Martin Garrix</string>
+    <string name="bangarang">Bangarang</string>
+    <string name="skrillex">Skrillex</string>
+    <string name="calvin_harris">Calvin Harris</string>
+    <string name="sweert_nothing">Sweet Nothing</string>
 </resources>
